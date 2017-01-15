@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="36" height="20" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="WALL_4" tilewidth="32" tileheight="32">
+  <image source="WALL_4.png" trans="ff00ff" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="17" name="WALL_5" tilewidth="32" tileheight="32">
+  <image source="WALL_5.png" trans="ff00ff" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="33" name="WALL_6" tilewidth="32" tileheight="32">
+  <image source="WALL_6.png" trans="ff00ff" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="49" name="WALL_7" tilewidth="32" tileheight="32">
+  <image source="WALL_7.png" trans="ff00ff" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="65" name="WALL_0" tilewidth="32" tileheight="32">
+  <image source="WALL_0.png" trans="ff00ff" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="81" name="WALL_1" tilewidth="32" tileheight="32">
+  <image source="WALL_1.png" trans="ff00ff" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="97" name="WALL_2" tilewidth="32" tileheight="32">
+  <image source="WALL_2.png" trans="ff00ff" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="113" name="WALL_3" tilewidth="32" tileheight="32">
+  <image source="WALL_3.png" trans="ff00ff" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="129" name="FLOOR_0" tilewidth="32" tileheight="32">
+  <image source="FLOOR_0.png" trans="ff00ff" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="145" name="FLOOR_1" tilewidth="32" tileheight="32">
+  <image source="FLOOR_1.png" trans="ff00ff" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="161" name="FLOOR_2" tilewidth="32" tileheight="32">
+  <image source="FLOOR_2.png" trans="ff00ff" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="177" name="FLOOR_3" tilewidth="32" tileheight="32">
+  <image source="FLOOR_3.png" trans="ff00ff" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="193" name="FLOOR_4" tilewidth="32" tileheight="32">
+  <image source="FLOOR_4.png" trans="ff00ff" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="209" name="FLOOR_6" tilewidth="32" tileheight="32">
+  <image source="FLOOR_6.jpg" trans="ff00ff" width="128" height="128"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="36" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0sk71WEABeCfmYyhyEyFKFORKTQYGswZK2WOQsYGoj+9d21xl9/d3PM87+LszuK0R1HUwWOe8JwXvORVgJ5EMimk0kkXT+lmmBFGGQvQ00gng0x66KWPfl7zhre8C9CzuEE2OTxjgEGGGGeCSaYC9FzyyKeAQ4445iQKn2lmmOU9p5zxk19x2DPHPAss8ps/nHMRhz1LLPOBj/zlkiv+xWHPJ1b4zJco8Z/rSfwndhL/iZ3Ef2Ln+n9qqeMu91hljXU2AvSbFFJEMfepp4FGNtlim68B+i1uU0IpD2iimYfssMs3vgfodyijnAoe0UIrbeyxzwE/AvRKqqimhv8ionzB
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="36" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1MdSQmEQhFFeXUSMqARzQFAQCQbMYgBBEBUT5vwofuuuWzWbf3m76mx7M10TCPjx4y49CKIXIUQRQxwJpJDGMlawhTK2sYMazlFHAw94RBdPHv1W+hBGPwYwgUlMYRoZZLGKHHaxh30c4AJNtHCJZ7zgFW8e/VYGMYRhjGAGs5jDPNaQRwFFHOIIFRyjjStc4wbv+MAnvjz6rUQwijGMYwGLSGIJJaxjA5s4wSnOUEUHt7jDPb7xg1/8efRb0b3ovXUPuhfdk+5N+63oXvTeugfdi+5J96b9VnQvem/dg+5F96R7034ruhe9t+5B96J70r1pvxXX/8X6X1Zc/xfrf1lx/V+s/2XF9X+x/pcfPy7zD2V54yk=
+  </data>
+ </layer>
+</map>

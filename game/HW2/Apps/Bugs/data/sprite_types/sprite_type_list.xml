@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sprite_type_list>
+  <sprite_type>cop</sprite_type>
+  <sprite_type>monster_hamza_hussaini</sprite_type>
+<sprite_type>bullet</sprite_type>
+<sprite_type>alien</sprite_type>
+<sprite_type>alien_2</sprite_type>
+<sprite_type>enemyBullet</sprite_type>
+<sprite_type>laserRifle</sprite_type>
+<sprite_type>HLaser</sprite_type>
+<sprite_type>VLaser</sprite_type>
+<sprite_type>boss</sprite_type>
+<sprite_type>turret</sprite_type>
+<sprite_type>instruction</sprite_type>
+<sprite_type>health</sprite_type>
+<sprite_type>live</sprite_type>
+</sprite_type_list>

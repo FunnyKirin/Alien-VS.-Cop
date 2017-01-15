@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sprite_type>
+    <image_config>SEPARATED</image_config>
+    <width>384</width>
+    <height>64</height>
+    <images_list>
+        <image_file id="1" file_name="health1.png"/>
+        <image_file id="2" file_name="health2.png"/>
+<image_file id="3" file_name="health3.png"/>
+<image_file id="4" file_name="health4.png"/>
+<image_file id="5" file_name="health5.png"/>
+<image_file id="6" file_name="health6.png"/>
+<image_file id="7" file_name="health7.png"/>
+<image_file id="8" file_name="health8.png"/>
+<image_file id="9" file_name="health9.png"/>
+<image_file id="10" file_name="health10.png"/>
+
+    </images_list>
+    <animations_list>
+        <animation_state>
+            <state>h1</state>
+            <animation_sequence>
+                <pose image_id="1" duration="10"/>
+            </animation_sequence>
+        </animation_state>
+
+<animation_state>
+            <state>h2</state>
+            <animation_sequence>
+                <pose image_id="2" duration="10"/>
+            </animation_sequence>
+        </animation_state>
+
+<animation_state>
+            <state>h3</state>
+            <animation_sequence>
+                <pose image_id="3" duration="10"/>
+            </animation_sequence>
+        </animation_state>
+
+<animation_state>
+            <state>h4</state>
+            <animation_sequence>
+                <pose image_id="4" duration="10"/>
+            </animation_sequence>
+        </animation_state>
+
+<animation_state>
+            <state>h5</state>
+            <animation_sequence>
+                <pose image_id="5" duration="10"/>
+            </animation_sequence>
+        </animation_state>
+
+<animation_state>
+            <state>h6</state>
+            <animation_sequence>
+                <pose image_id="6" duration="10"/>
+            </animation_sequence>
+        </animation_state>
+
+<animation_state>
+            <state>h7</state>
+            <animation_sequence>
+                <pose image_id="7" duration="10"/>
+            </animation_sequence>
+        </animation_state>
+
+<animation_state>
+            <state>h8</state>
+            <animation_sequence>
+                <pose image_id="8" duration="10"/>
+            </animation_sequence>
+        </animation_state>
+
+<animation_state>
+            <state>h9</state>
+            <animation_sequence>
+                <pose image_id="9" duration="10"/>
+            </animation_sequence>
+        </animation_state>
+
+<animation_state>
+            <state>h10</state>
+            <animation_sequence>
+                <pose image_id="10" duration="10"/>
+            </animation_sequence>
+        </animation_state>
+
+	</animations_list>  
+</sprite_type>
